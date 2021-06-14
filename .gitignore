@@ -7,7 +7,6 @@ out/
 .idea/
 gradle/
 gradlew*
-.env
 .tx/
 node_modules/
 api-definition.json
